@@ -1,2 +1,6 @@
-# monospaced_fonts
-Monospaced fonts for programming
+### Monospaced fonts for programming
+
+
+| Name | Size |   |
+| ---- | ---- | - |
+| Söhne Mono | 75kB | Font used in ChatGPT code answers |
